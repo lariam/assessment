@@ -2,6 +2,10 @@
 あなたのいいところ診断ゲーム
 
 このプロジェクトは、  
+[Webプログラミングが面白いほどわかる本　環境構築からWebサービスの作成まで、はじめからていねいに](https://www.kadokawa.co.jp/product/321712000860/) 本の演習用ページです。
+
+
+このプロジェクトは、  
 https://lariam.github.io/assessment/assessment.html
 にてWebページとしてアクセスできる。
 
